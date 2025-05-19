@@ -1,3 +1,19 @@
 body{
-    background-color: #8082ff;
+    background-color: #c0c1ff;
+}
+h2{
+    font-size: 2rem;
+}
+p{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #333333;
+}
+b{
+    font-weight: 900;
+}
+.intro{
+    font-size: 1.5rem;
+    background-color: 
+#addae6;
+    padding: 20px;
 }
